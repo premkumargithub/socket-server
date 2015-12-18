@@ -1,0 +1,22 @@
+{
+  "name": "Socket Server",
+  "version": "1.0.0",
+  "description": "socket",
+  "main": "server.js",
+  "scripts": {
+    "start": "sudo node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "test"
+  },
+  "keywords": [
+    "socket"
+  ],
+  "author": "Prem Baboo",
+  "license": "Medocity, Inc",
+  "devDependencies": {
+    "express": "^4.10.2",
+    "socket.io": "^1.3.7"
+  }
+}
